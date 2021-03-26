@@ -2,7 +2,8 @@ some stuff
 
 More important stuff
 
-more stuff
+more 
+finish changes
 
 
 This fixes the bug for issue 53
