@@ -3,3 +3,9 @@ some stuff
 More important stuff
 
 more stuff
+
+
+This fixes the bug for issue 53
+
+more changes for issue 53
+
