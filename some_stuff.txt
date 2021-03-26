@@ -2,10 +2,7 @@ some stuff
 
 More important stuff
 
-more stuff
-
-
-This fixes the bug for issue 53
+more stuff, even more stuff
 
 more changes for issue 53
 
